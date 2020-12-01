@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-30T23:54:25.789+06:00
-  initializedAtString: 2020-11-30T23:54:25.789+06:00
+  lastUpdatedAtString: 2020-12-01T09:40:22.338+06:00
+  initializedAtString: 2020-12-01T09:40:22.338+06:00
   currentGitRemote:
     name: origin
     url: git@github.com:AlexNewmanProg/Games.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: si-3-Create-unity-project-for-spaceinvaders
-    tracking: 
+    name: dev
+    tracking: origin/dev
   currentConfigBranch:
-    name: si-3-Create-unity-project-for-spaceinvaders
+    name: dev
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: git@github.com:AlexNewmanProg/Games.git
+    trackingBranch: dev
   currentConfigRemote:
     name: origin
     url: git@github.com:AlexNewmanProg/Games.git
