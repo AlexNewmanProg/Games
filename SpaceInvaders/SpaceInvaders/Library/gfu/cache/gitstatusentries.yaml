@@ -13,87 +13,711 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-01T09:43:06.940+06:00
-  initializedAtString: 2020-12-01T09:40:40.956+06:00
+  lastUpdatedAtString: 2020-12-01T11:58:27.006+06:00
+  initializedAtString: 2020-12-01T10:23:01.026+06:00
   entries:
-  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds.meta
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds.meta
-    projectPath: Assets\Sounds.meta
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations.meta
+    projectPath: Assets\Animations.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Assets\Sprites.meta
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sprites.meta
-    projectPath: Assets\Sprites.meta
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien1.anim
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien1.anim
+    projectPath: Assets\Animations\Alien1.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien1.anim.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien1.anim.meta
+    projectPath: Assets\Animations\Alien1.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien2.anim
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien2.anim
+    projectPath: Assets\Animations\Alien2.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien2.anim.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien2.anim.meta
+    projectPath: Assets\Animations\Alien2.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien3.anim
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien3.anim
+    projectPath: Assets\Animations\Alien3.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Alien3.anim.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Alien3.anim.meta
+    projectPath: Assets\Animations\Alien3.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_0.controller
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_0.controller
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_0.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_0.controller.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_0.controller.meta
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_0.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_3.controller
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_3.controller
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_3.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_3.controller.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_3.controller.meta
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_3.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_5.controller
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_5.controller
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_5.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade - Space Invaders -
+      Game Graphics and Color Overlays_5.controller.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Animations\Arcade
+      - Space Invaders - Game Graphics and Color Overlays_5.controller.meta
+    projectPath: Assets\Animations\Arcade - Space Invaders - Game Graphics and Color
+      Overlays_5.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien1.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien1.prefab
+    projectPath: Assets\Prefabs\Alien1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien1.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien1.prefab.meta
+    projectPath: Assets\Prefabs\Alien1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien2.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien2.prefab
+    projectPath: Assets\Prefabs\Alien2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien2.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien2.prefab.meta
+    projectPath: Assets\Prefabs\Alien2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien3.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien3.prefab
+    projectPath: Assets\Prefabs\Alien3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien3.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Alien3.prefab.meta
+    projectPath: Assets\Prefabs\Alien3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Bullet.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Bullet.prefab
+    projectPath: Assets\Prefabs\Bullet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Bullet.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Bullet.prefab.meta
+    projectPath: Assets\Prefabs\Bullet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Player.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Player.prefab
+    projectPath: Assets\Prefabs\Player.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\Player.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\Player.prefab.meta
+    projectPath: Assets\Prefabs\Player.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\UFO.prefab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\UFO.prefab
+    projectPath: Assets\Prefabs\UFO.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Prefabs\UFO.prefab.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Prefabs\UFO.prefab.meta
+    projectPath: Assets\Prefabs\UFO.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Scenes\SampleScene.unity
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\explosion.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\explosion.wav
+    projectPath: Assets\Sounds\explosion.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\explosion.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\explosion.wav.meta
+    projectPath: Assets\Sounds\explosion.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader1.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader1.wav
+    projectPath: Assets\Sounds\fastinvader1.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader1.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader1.wav.meta
+    projectPath: Assets\Sounds\fastinvader1.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader2.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader2.wav
+    projectPath: Assets\Sounds\fastinvader2.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader2.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader2.wav.meta
+    projectPath: Assets\Sounds\fastinvader2.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader3.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader3.wav
+    projectPath: Assets\Sounds\fastinvader3.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader3.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader3.wav.meta
+    projectPath: Assets\Sounds\fastinvader3.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader4.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader4.wav
+    projectPath: Assets\Sounds\fastinvader4.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader4.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\fastinvader4.wav.meta
+    projectPath: Assets\Sounds\fastinvader4.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\invaderkilled.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\invaderkilled.wav
+    projectPath: Assets\Sounds\invaderkilled.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\invaderkilled.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\invaderkilled.wav.meta
+    projectPath: Assets\Sounds\invaderkilled.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\shoot.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\shoot.wav
+    projectPath: Assets\Sounds\shoot.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\shoot.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\shoot.wav.meta
+    projectPath: Assets\Sounds\shoot.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders1.mpeg
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders1.mpeg
+    projectPath: Assets\Sounds\spaceinvaders1.mpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders1.mpeg.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders1.mpeg.meta
+    projectPath: Assets\Sounds\spaceinvaders1.mpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders2.ram
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders2.ram
+    projectPath: Assets\Sounds\spaceinvaders2.ram
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders2.ram.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\spaceinvaders2.ram.meta
+    projectPath: Assets\Sounds\spaceinvaders2.ram.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_highpitch.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_highpitch.wav
+    projectPath: Assets\Sounds\ufo_highpitch.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_highpitch.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_highpitch.wav.meta
+    projectPath: Assets\Sounds\ufo_highpitch.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_lowpitch.wav
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_lowpitch.wav
+    projectPath: Assets\Sounds\ufo_lowpitch.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_lowpitch.wav.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sounds\ufo_lowpitch.wav.meta
+    projectPath: Assets\Sounds\ufo_lowpitch.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sprites\Arcade - Space Invaders - Game
+      Graphics and Color Overlays.png
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sprites\Arcade
+      - Space Invaders - Game Graphics and Color Overlays.png
+    projectPath: Assets\Sprites\Arcade - Space Invaders - Game Graphics and Color
+      Overlays.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Assets\Sprites\Arcade - Space Invaders - Game
+      Graphics and Color Overlays.png.meta
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Assets\Sprites\Arcade
+      - Space Invaders - Game Graphics and Color Overlays.png.meta
+    projectPath: Assets\Sprites\Arcade - Space Invaders - Game Graphics and Color
+      Overlays.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SpaceInvaders\SpaceInvaders\Library\ArtifactDB
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
-    projectPath: Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\01\01d4015fc4680e2fb8670df2bc05ca5e
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\01\01d4015fc4680e2fb8670df2bc05ca5e
+    projectPath: Library\Artifacts\01\01d4015fc4680e2fb8670df2bc05ca5e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
-    projectPath: Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\07\07c26cfcbef199c31a20f949f2cdf079
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\07\07c26cfcbef199c31a20f949f2cdf079
+    projectPath: Library\Artifacts\07\07c26cfcbef199c31a20f949f2cdf079
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\0b\0b879732287962a95eab6029f85dd75e
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\0b\0b879732287962a95eab6029f85dd75e
+    projectPath: Library\Artifacts\0b\0b879732287962a95eab6029f85dd75e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\0c\0c5f6e186678f2ac12f12d6bc8cccb1b
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\0c\0c5f6e186678f2ac12f12d6bc8cccb1b
+    projectPath: Library\Artifacts\0c\0c5f6e186678f2ac12f12d6bc8cccb1b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
-    projectPath: Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\12\12532bfcfa62153f7da4f329d6d7cd0e
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\12\12532bfcfa62153f7da4f329d6d7cd0e
+    projectPath: Library\Artifacts\12\12532bfcfa62153f7da4f329d6d7cd0e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
-    projectPath: Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\16\16661af8525b7ad6cd742c64979b516b
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\16\16661af8525b7ad6cd742c64979b516b
+    projectPath: Library\Artifacts\16\16661af8525b7ad6cd742c64979b516b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
-    projectPath: Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\17\171f33ff61f6c16b0b2b53fd9f9cd952
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\17\171f33ff61f6c16b0b2b53fd9f9cd952
+    projectPath: Library\Artifacts\17\171f33ff61f6c16b0b2b53fd9f9cd952
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
-    projectPath: Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\19\19c70608c05d59fccfa6b5be966ffe5d
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\19\19c70608c05d59fccfa6b5be966ffe5d
+    projectPath: Library\Artifacts\19\19c70608c05d59fccfa6b5be966ffe5d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\e4\e4e867bcc19f8ce5d5078bf91a0a04e0
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\e4\e4e867bcc19f8ce5d5078bf91a0a04e0
-    projectPath: Library\Artifacts\e4\e4e867bcc19f8ce5d5078bf91a0a04e0
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\19\19d96655e6db359964ce94ddf5f16e69
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\19\19d96655e6db359964ce94ddf5f16e69
+    projectPath: Library\Artifacts\19\19d96655e6db359964ce94ddf5f16e69
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\21\219f122acc05a0bc067429fa6dde14ff
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\21\219f122acc05a0bc067429fa6dde14ff
+    projectPath: Library\Artifacts\21\219f122acc05a0bc067429fa6dde14ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\2a\2a982d3f04f3cf42b610c29f14df7080
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\2a\2a982d3f04f3cf42b610c29f14df7080
+    projectPath: Library\Artifacts\2a\2a982d3f04f3cf42b610c29f14df7080
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\2c\2c42a3a8270ec1ce990cf8b89304c3af
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\2c\2c42a3a8270ec1ce990cf8b89304c3af
+    projectPath: Library\Artifacts\2c\2c42a3a8270ec1ce990cf8b89304c3af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\2f\2f2b5612148e1bc6daf96da8724f00a8
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\2f\2f2b5612148e1bc6daf96da8724f00a8
+    projectPath: Library\Artifacts\2f\2f2b5612148e1bc6daf96da8724f00a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\3d\3dc755b5942ad102edfef4b6313a14ea
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\3d\3dc755b5942ad102edfef4b6313a14ea
+    projectPath: Library\Artifacts\3d\3dc755b5942ad102edfef4b6313a14ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\40\40fed018520f5800744d5dce6da099ab
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\40\40fed018520f5800744d5dce6da099ab
+    projectPath: Library\Artifacts\40\40fed018520f5800744d5dce6da099ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\47\4705348433d85ea937698f8b658b15fa
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\47\4705348433d85ea937698f8b658b15fa
+    projectPath: Library\Artifacts\47\4705348433d85ea937698f8b658b15fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\49\4976f0f0be7c6d8b5021152c571b2455
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\49\4976f0f0be7c6d8b5021152c571b2455
+    projectPath: Library\Artifacts\49\4976f0f0be7c6d8b5021152c571b2455
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\52\523556260df3d8be95de7b49655c828b
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\52\523556260df3d8be95de7b49655c828b
+    projectPath: Library\Artifacts\52\523556260df3d8be95de7b49655c828b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\58\5803d5f7ce4b271a6cc4504f8297a13b
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\58\5803d5f7ce4b271a6cc4504f8297a13b
+    projectPath: Library\Artifacts\58\5803d5f7ce4b271a6cc4504f8297a13b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\58\5826c30364ee7168911ac874db22c599
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\58\5826c30364ee7168911ac874db22c599
+    projectPath: Library\Artifacts\58\5826c30364ee7168911ac874db22c599
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\60\602b781643f46db400786eeda555e1f5
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\60\602b781643f46db400786eeda555e1f5
+    projectPath: Library\Artifacts\60\602b781643f46db400786eeda555e1f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\62\627a3b05a1bd15aced9dff686c993247
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\62\627a3b05a1bd15aced9dff686c993247
+    projectPath: Library\Artifacts\62\627a3b05a1bd15aced9dff686c993247
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\66\660f8c7cbcf32666bad668cb03c8fd11
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\66\660f8c7cbcf32666bad668cb03c8fd11
+    projectPath: Library\Artifacts\66\660f8c7cbcf32666bad668cb03c8fd11
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\66\666f1dcfa8bab9240c08b0927b1b7e9e
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\66\666f1dcfa8bab9240c08b0927b1b7e9e
+    projectPath: Library\Artifacts\66\666f1dcfa8bab9240c08b0927b1b7e9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\69\697d8dd7d33626051b0173cfc5bddfd4
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\69\697d8dd7d33626051b0173cfc5bddfd4
+    projectPath: Library\Artifacts\69\697d8dd7d33626051b0173cfc5bddfd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\6c\6c52a0340dda45000ac08e6421105c13
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\6c\6c52a0340dda45000ac08e6421105c13
+    projectPath: Library\Artifacts\6c\6c52a0340dda45000ac08e6421105c13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\6f\6f5501376a510067cb1a776b72463453
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\6f\6f5501376a510067cb1a776b72463453
+    projectPath: Library\Artifacts\6f\6f5501376a510067cb1a776b72463453
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\73\735c401d71578a7676a8b14332f137ce
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\73\735c401d71578a7676a8b14332f137ce
+    projectPath: Library\Artifacts\73\735c401d71578a7676a8b14332f137ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\74\74288719d437d272c6af56429db1693f
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\74\74288719d437d272c6af56429db1693f
+    projectPath: Library\Artifacts\74\74288719d437d272c6af56429db1693f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\76\76be69ebbf38d167b63b9fa7b665a92f
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\76\76be69ebbf38d167b63b9fa7b665a92f
+    projectPath: Library\Artifacts\76\76be69ebbf38d167b63b9fa7b665a92f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\81\81163daa14dfc780ed7bb9705502991f
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\81\81163daa14dfc780ed7bb9705502991f
+    projectPath: Library\Artifacts\81\81163daa14dfc780ed7bb9705502991f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\84\8485f7b32e24f6f65a5b74cec27d86ce
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\84\8485f7b32e24f6f65a5b74cec27d86ce
+    projectPath: Library\Artifacts\84\8485f7b32e24f6f65a5b74cec27d86ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\88\880c3aa5d11a9235f6b930f7ba2459e9
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\88\880c3aa5d11a9235f6b930f7ba2459e9
+    projectPath: Library\Artifacts\88\880c3aa5d11a9235f6b930f7ba2459e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\8b\8b9c64878903b94543ebc4a7b6b8a32c
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\8b\8b9c64878903b94543ebc4a7b6b8a32c
+    projectPath: Library\Artifacts\8b\8b9c64878903b94543ebc4a7b6b8a32c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\8c\8c05959100eb0f7aeb7a26967f903b93
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\8c\8c05959100eb0f7aeb7a26967f903b93
+    projectPath: Library\Artifacts\8c\8c05959100eb0f7aeb7a26967f903b93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\8d\8d08d3d1f3511d8e037e9c0ebdbaee84
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\8d\8d08d3d1f3511d8e037e9c0ebdbaee84
+    projectPath: Library\Artifacts\8d\8d08d3d1f3511d8e037e9c0ebdbaee84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\8e\8e05ffefd9eff3896ad87417bad4f6f6
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\8e\8e05ffefd9eff3896ad87417bad4f6f6
+    projectPath: Library\Artifacts\8e\8e05ffefd9eff3896ad87417bad4f6f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\99\99ea05a0e37da08b33fb64261db2771f
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\99\99ea05a0e37da08b33fb64261db2771f
+    projectPath: Library\Artifacts\99\99ea05a0e37da08b33fb64261db2771f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\a2\a237fa390687c4d14b391b976b00f0f8
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\a2\a237fa390687c4d14b391b976b00f0f8
+    projectPath: Library\Artifacts\a2\a237fa390687c4d14b391b976b00f0f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\a2\a2e980648cdf2dced2bd8ba680e5aaad
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\a2\a2e980648cdf2dced2bd8ba680e5aaad
+    projectPath: Library\Artifacts\a2\a2e980648cdf2dced2bd8ba680e5aaad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\a7\a73dbb59b6718720cc88764440fb13df
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\a7\a73dbb59b6718720cc88764440fb13df
+    projectPath: Library\Artifacts\a7\a73dbb59b6718720cc88764440fb13df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\b4\b4efa74ae98021808b9c9decb33ae16e
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\b4\b4efa74ae98021808b9c9decb33ae16e
+    projectPath: Library\Artifacts\b4\b4efa74ae98021808b9c9decb33ae16e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\b6\b6ac810754dbe57c3bc861264ec813bb
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\b6\b6ac810754dbe57c3bc861264ec813bb
+    projectPath: Library\Artifacts\b6\b6ac810754dbe57c3bc861264ec813bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\b9\b9eb0eeebbc1ca4a79cca8ed720b754a
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\b9\b9eb0eeebbc1ca4a79cca8ed720b754a
+    projectPath: Library\Artifacts\b9\b9eb0eeebbc1ca4a79cca8ed720b754a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\bd\bdb7e78aad22502ac80964dfc54feef5
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\bd\bdb7e78aad22502ac80964dfc54feef5
+    projectPath: Library\Artifacts\bd\bdb7e78aad22502ac80964dfc54feef5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\be\be6e3c46a61649b55e2944488c8587a1
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\be\be6e3c46a61649b55e2944488c8587a1
+    projectPath: Library\Artifacts\be\be6e3c46a61649b55e2944488c8587a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\cd\cd7417eb43a857a318f32928304bec45
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\cd\cd7417eb43a857a318f32928304bec45
+    projectPath: Library\Artifacts\cd\cd7417eb43a857a318f32928304bec45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\d5\d54a74c60868475a481bb37c2e551109
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\d5\d54a74c60868475a481bb37c2e551109
+    projectPath: Library\Artifacts\d5\d54a74c60868475a481bb37c2e551109
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\d5\d55c62ca3d4cc9e4ae559a27187c5a84
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\d5\d55c62ca3d4cc9e4ae559a27187c5a84
+    projectPath: Library\Artifacts\d5\d55c62ca3d4cc9e4ae559a27187c5a84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\dc\dc4e32b55556fe00e0ac2a732dc263da
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\dc\dc4e32b55556fe00e0ac2a732dc263da
+    projectPath: Library\Artifacts\dc\dc4e32b55556fe00e0ac2a732dc263da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\e6\e66183cf226fc8a398d9ff206025cb2d
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\e6\e66183cf226fc8a398d9ff206025cb2d
+    projectPath: Library\Artifacts\e6\e66183cf226fc8a398d9ff206025cb2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\e6\e693ccebfaab98e1a6145ba8d7b1d0cc
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\e6\e693ccebfaab98e1a6145ba8d7b1d0cc
+    projectPath: Library\Artifacts\e6\e693ccebfaab98e1a6145ba8d7b1d0cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\ef\ef25e164d4182bd5d64f889d5c1e2559
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\ef\ef25e164d4182bd5d64f889d5c1e2559
+    projectPath: Library\Artifacts\ef\ef25e164d4182bd5d64f889d5c1e2559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f304d0d240944e2e47cbc8bff571f64d
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f304d0d240944e2e47cbc8bff571f64d
+    projectPath: Library\Artifacts\f3\f304d0d240944e2e47cbc8bff571f64d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f3adfb4af647fcc1ec78b9678a17a271
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f3adfb4af647fcc1ec78b9678a17a271
+    projectPath: Library\Artifacts\f3\f3adfb4af647fcc1ec78b9678a17a271
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f3c114319ac087d8fc90e4515612a4af
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\f3\f3c114319ac087d8fc90e4515612a4af
+    projectPath: Library\Artifacts\f3\f3c114319ac087d8fc90e4515612a4af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\Artifacts\fa\fa6639f1b5c34824ede4fbf7d9d1b236
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\Artifacts\fa\fa6639f1b5c34824ede4fbf7d9d1b236
+    projectPath: Library\Artifacts\fa\fa6639f1b5c34824ede4fbf7d9d1b236
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceInvaders\SpaceInvaders\Library\EditorInstance.json
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\EditorSnapSettings.asset
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceInvaders\SpaceInvaders\Library\gfu\cache\branches.yaml
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceInvaders\SpaceInvaders\Library\gfu\cache\gitlocks.yaml
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -104,8 +728,8 @@ MonoBehaviour:
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: SpaceInvaders\SpaceInvaders\Library\gfu\cache\gitstatusentries.yaml
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -121,6 +745,12 @@ MonoBehaviour:
   - path: SpaceInvaders\SpaceInvaders\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\Library\InspectorExpandedItems.asset
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -9809,207 +10439,165 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    projectPath: Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    projectPath: Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    projectPath: Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\5\508cb9e306066f27d082e87687c85d3d.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\5\508cb9e306066f27d082e87687c85d3d.bin
+    projectPath: Library\ShaderCache\5\508cb9e306066f27d082e87687c85d3d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    projectPath: Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    projectPath: Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    projectPath: Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\e\e40df497c28a516c9a270fd59bf5404c.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\e\e40df497c28a516c9a270fd59bf5404c.bin
+    projectPath: Library\ShaderCache\e\e40df497c28a516c9a270fd59bf5404c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+  - path: SpaceInvaders\SpaceInvaders\Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
+    projectPath: Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SpaceInvaders\SpaceInvaders\Library\SourceAssetDB
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: SpaceInvaders\SpaceInvaders\Library\SourceAssetDB-lock
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\08e3c7-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\08e3c7-ef96484645ad92346a.json
+    projectPath: Library\StateCache\Hierarchy\08e3c7-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\08e3c7-mainStage.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\08e3c7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\08e3c7-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\0b3fb0-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\0b3fb0-ef96484645ad92346a.json
+    projectPath: Library\StateCache\Hierarchy\0b3fb0-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\23c8cd-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\23c8cd-ef96484645ad92346a.json
+    projectPath: Library\StateCache\Hierarchy\23c8cd-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\23c8cd-mainStage.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\23c8cd-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\23c8cd-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\cc5556-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\Hierarchy\cc5556-ef96484645ad92346a.json
+    projectPath: Library\StateCache\Hierarchy\cc5556-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\362d09-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\362d09-ef96484645ad92346a.json
+    projectPath: Library\StateCache\SceneView\362d09-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\395cea-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\395cea-ef96484645ad92346a.json
+    projectPath: Library\StateCache\SceneView\395cea-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\427ecc-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\427ecc-ef96484645ad92346a.json
+    projectPath: Library\StateCache\SceneView\427ecc-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\427ecc-mainStage.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\427ecc-mainStage.json
+    projectPath: Library\StateCache\SceneView\427ecc-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\dc474c-ef96484645ad92346a.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\dc474c-ef96484645ad92346a.json
+    projectPath: Library\StateCache\SceneView\dc474c-ef96484645ad92346a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\dc474c-mainStage.json
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Library\StateCache\SceneView\dc474c-mainStage.json
+    projectPath: Library\StateCache\SceneView\dc474c-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -10019,189 +10607,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\ProjectSettings\TagManager.asset
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SpaceInvaders\SpaceInvaders\Temp\__Backupscenes\0.backup
+    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: SpaceInvaders\SpaceInvaders\Temp\UnityLockfile
     fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-012392aba0538f14c8cd965b5a731c34
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-012392aba0538f14c8cd965b5a731c34
-    projectPath: Temp\UnityTempFile-012392aba0538f14c8cd965b5a731c34
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-038097e7d6d68034993a72f8f329dc0d
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-038097e7d6d68034993a72f8f329dc0d
-    projectPath: Temp\UnityTempFile-038097e7d6d68034993a72f8f329dc0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-07002545c9936974aaade832b9ce68c3
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-07002545c9936974aaade832b9ce68c3
-    projectPath: Temp\UnityTempFile-07002545c9936974aaade832b9ce68c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-0808ac7479a0a1642b4be52534f66af8
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-0808ac7479a0a1642b4be52534f66af8
-    projectPath: Temp\UnityTempFile-0808ac7479a0a1642b4be52534f66af8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-1db68927759c69a4ea36e3a92a1fde7d
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-1db68927759c69a4ea36e3a92a1fde7d
-    projectPath: Temp\UnityTempFile-1db68927759c69a4ea36e3a92a1fde7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-215743d28adbf064ea89f3c8dcae0efc
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-215743d28adbf064ea89f3c8dcae0efc
-    projectPath: Temp\UnityTempFile-215743d28adbf064ea89f3c8dcae0efc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-262a8e5b6f985b1478cb9eb996b78c1b
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-262a8e5b6f985b1478cb9eb996b78c1b
-    projectPath: Temp\UnityTempFile-262a8e5b6f985b1478cb9eb996b78c1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-28f28bc28ee8c2340af4b7a19aeb7ece
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-28f28bc28ee8c2340af4b7a19aeb7ece
-    projectPath: Temp\UnityTempFile-28f28bc28ee8c2340af4b7a19aeb7ece
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-2dc28b7bfda7be74cb4b83f9c46ba695
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-2dc28b7bfda7be74cb4b83f9c46ba695
-    projectPath: Temp\UnityTempFile-2dc28b7bfda7be74cb4b83f9c46ba695
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-398864ac44b1c174aac6690afbab3bca
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-398864ac44b1c174aac6690afbab3bca
-    projectPath: Temp\UnityTempFile-398864ac44b1c174aac6690afbab3bca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-3e26b00cf9df433489cc0cc4c34d1480
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-3e26b00cf9df433489cc0cc4c34d1480
-    projectPath: Temp\UnityTempFile-3e26b00cf9df433489cc0cc4c34d1480
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-4068a65128bc8f1479aa937f6fb07897
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-4068a65128bc8f1479aa937f6fb07897
-    projectPath: Temp\UnityTempFile-4068a65128bc8f1479aa937f6fb07897
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-44befa54b41e5f9449feb2b430720cff
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-44befa54b41e5f9449feb2b430720cff
-    projectPath: Temp\UnityTempFile-44befa54b41e5f9449feb2b430720cff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5336a51e33665744c905401e0c8f462d
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5336a51e33665744c905401e0c8f462d
-    projectPath: Temp\UnityTempFile-5336a51e33665744c905401e0c8f462d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5522de5690542d642b3209954c63a6b6
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5522de5690542d642b3209954c63a6b6
-    projectPath: Temp\UnityTempFile-5522de5690542d642b3209954c63a6b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5b78d1da74f3d724b8e65c0f068af147
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-5b78d1da74f3d724b8e65c0f068af147
-    projectPath: Temp\UnityTempFile-5b78d1da74f3d724b8e65c0f068af147
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-6278504d4fdae6c4392f5ee6d8d8529c
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-6278504d4fdae6c4392f5ee6d8d8529c
-    projectPath: Temp\UnityTempFile-6278504d4fdae6c4392f5ee6d8d8529c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-645ac317ff65dfb4ca85764ac95efd49
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-645ac317ff65dfb4ca85764ac95efd49
-    projectPath: Temp\UnityTempFile-645ac317ff65dfb4ca85764ac95efd49
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-6853d80b251d9b0459aa6e0a118ae082
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-6853d80b251d9b0459aa6e0a118ae082
-    projectPath: Temp\UnityTempFile-6853d80b251d9b0459aa6e0a118ae082
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-7d0d313e0c067ab40a0de15eaf0166c8
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-7d0d313e0c067ab40a0de15eaf0166c8
-    projectPath: Temp\UnityTempFile-7d0d313e0c067ab40a0de15eaf0166c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-a45d8c7d2c6bda3488bee43860c99186
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-a45d8c7d2c6bda3488bee43860c99186
-    projectPath: Temp\UnityTempFile-a45d8c7d2c6bda3488bee43860c99186
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-b37f6ebc00cccdb4997bcdd584f2a8bc
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-b37f6ebc00cccdb4997bcdd584f2a8bc
-    projectPath: Temp\UnityTempFile-b37f6ebc00cccdb4997bcdd584f2a8bc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-b5500df491839f54e969bb1599eb7486
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-b5500df491839f54e969bb1599eb7486
-    projectPath: Temp\UnityTempFile-b5500df491839f54e969bb1599eb7486
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-bbf61a7d8711009458df9f661b92482f
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-bbf61a7d8711009458df9f661b92482f
-    projectPath: Temp\UnityTempFile-bbf61a7d8711009458df9f661b92482f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-c9fa6c23c72aa33418d715872af1b73a
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-c9fa6c23c72aa33418d715872af1b73a
-    projectPath: Temp\UnityTempFile-c9fa6c23c72aa33418d715872af1b73a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-d230c5c6689b09c40ba09562f4123619
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-d230c5c6689b09c40ba09562f4123619
-    projectPath: Temp\UnityTempFile-d230c5c6689b09c40ba09562f4123619
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-d2de13f3bc0e3d14c998ac832860931d
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-d2de13f3bc0e3d14c998ac832860931d
-    projectPath: Temp\UnityTempFile-d2de13f3bc0e3d14c998ac832860931d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-e026a1826f4634c4a8568aeac22bf71a
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-e026a1826f4634c4a8568aeac22bf71a
-    projectPath: Temp\UnityTempFile-e026a1826f4634c4a8568aeac22bf71a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-e7c9c9f531fdf294a9f386ebd0cbccfe
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-e7c9c9f531fdf294a9f386ebd0cbccfe
-    projectPath: Temp\UnityTempFile-e7c9c9f531fdf294a9f386ebd0cbccfe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-ff7098cdd3678164c8df85a5a5677390
-    fullPath: D:\Game dev\Games\SpaceInvaders\SpaceInvaders\Temp\UnityTempFile-ff7098cdd3678164c8df85a5a5677390
-    projectPath: Temp\UnityTempFile-ff7098cdd3678164c8df85a5a5677390
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

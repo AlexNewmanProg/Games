@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-12-01T09:40:39.258+06:00
-  initializedAtString: 2020-12-01T09:40:22.981+06:00
+  lastUpdatedAtString: 2020-12-01T11:55:15.394+06:00
+  initializedAtString: 2020-12-01T10:51:16.589+06:00
   localBranches:
   - name: AddSoundsAndSprites
     tracking: origin/AddSoundsAndSprites
@@ -32,6 +32,8 @@ MonoBehaviour:
   - name: origin/dev
     tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   - name: origin/stage
     tracking: '[None]'
@@ -84,6 +86,7 @@ MonoBehaviour:
       - AddSoundsAndSprites
       - dev
       - HEAD
+      - main
       - stage
     subKeyValues:
     - Values:
@@ -98,6 +101,11 @@ MonoBehaviour:
           url: git@github.com:AlexNewmanProg/Games.git
         trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: git@github.com:AlexNewmanProg/Games.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: git@github.com:AlexNewmanProg/Games.git
